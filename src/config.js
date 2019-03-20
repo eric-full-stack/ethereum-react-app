@@ -1,4 +1,4 @@
-export const WORDS_LIST_ADDRESS = '0xB049049C2A52C0cccA9625A6B9eAB940C90EbAaE'
+export const API_URL = 'https://ethereum-challenge.herokuapp.com/'
 
 
 
